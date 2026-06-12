@@ -23,9 +23,9 @@ Building **DayZ tools**, **cloud services**, **mods**, and **scripts**
 
 ## About Citadel
 
-**Citadel** is my platform for building DayZ-focused technology designed around reliability, automation, and better server experiences.
+**Citadel** is my platform for building DayZ-focused technology centered on reliability, automation, and better server experiences.
 
-From **local server tooling** to **cloud-powered systems** and **custom modding work**, I create practical solutions that support communities, streamline workflows, and expand what’s possible in the DayZ ecosystem.
+Through local tooling, cloud-powered services, and custom modding work, I create practical systems that streamline workflows, support communities, and expand what’s possible in the DayZ ecosystem.
 
 ---
 
@@ -33,7 +33,7 @@ From **local server tooling** to **cloud-powered systems** and **custom modding 
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=github,git,nodejs,ts,js,react,discord,vscode)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=github,git,ts,js,nodejs,react,docker,linux,vscode)](https://skillicons.dev)
 
 </div>
 
@@ -52,14 +52,14 @@ From **local server tooling** to **cloud-powered systems** and **custom modding 
 ## Featured Projects
 
 ### [DayzServerController](https://github.com/Sk3tch-Dev-Ux/DayzServerController)
-Local DayZ server controller focused on automation, management, and workflow improvements.
+Local DayZ server controller built for automation, server management, and streamlined workflows.
 
 ### [citadel-cloud](https://github.com/Sk3tch-Dev-Ux/citadel-cloud)
-Cloud service for Citadel, built to power connected DayZ tools and scalable features.  
+Cloud platform for Citadel, powering connected DayZ services and scalable infrastructure.  
 **Website:** [citadel-hub.com/cloud](https://citadel-hub.com/cloud)
 
 ### [citadel-mods](https://github.com/Sk3tch-Dev-Ux/citadel-mods)
-A collection of DayZ mods for extending gameplay, utility, and server-side features.  
+Custom DayZ mods focused on gameplay improvements, server customization, and utility.  
 **Website:** [citadel-hub.com/mods](https://citadel-hub.com/mods)
 
 ---
